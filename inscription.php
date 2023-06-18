@@ -1,5 +1,18 @@
+<head>
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<nav class="menu">
+    <ul class="menuderoulant">
+        <li class="bouton0">
+            <a href='index.php'> Acceuil</a>
+                    </ul>
+                </li>
+            </ul>
+
+        </li>
+<div id='MENU'>
 <form class="form" method="POST" action="insertcompt.php">
-        <a href="index.php">acceuil</a>
         <div>
             <input type="email" name="mail" placeholder="Email">
         </div>
@@ -17,3 +30,4 @@
         </div> 
         <button type="submit">Envoyer </button>
     </form>
+    </div>
